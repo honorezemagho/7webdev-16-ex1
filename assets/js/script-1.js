@@ -1,0 +1,1 @@
+alert('this is script-1.js');
